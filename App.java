@@ -1,8 +1,6 @@
 import java.util.List;
 import java.util.Scanner;
 
-// here is a comment
-
 public class App {
     private static final Scanner inputScanner = new Scanner(System.in);
 
